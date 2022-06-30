@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramya-4004" alt="ramya-4004" /></a> </p>
 
-- 🔭 I’m currently working on [Learning-App](https://github.com/ramya-4004/Learning-App)
-
 - 🌱 I’m currently learning **Android App Development in both Android and cross platform framework Flutter.**
 
 - 👯 I’m looking to collaborate on [ml-cnn-for-crowd-management](https://github.com/ramya-4004/ml-cnn-for-crowd-management)
